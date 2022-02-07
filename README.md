@@ -3,16 +3,13 @@
 ![License](https://img.shields.io/badge/MIT-blue)
 
 ## Description
-    This code has been refactored to include redux instead of just context api this application is a store which allows you to signup and login and add things to your cart to make purchases.
+ This code has been refactored to include redux instead of just context api this application is a store which allows you to signup and login and add things to your cart to make purchases.
 
  
 ## Tables Of Contents
 
-* [Installation](#installation)
-* [Usage](#usage)
 * [Credits](#credits)
 * [Contributing](#Contributing)
-* [Tests](#Tests)
 * [Questions](#Questions)
 
         
@@ -20,13 +17,6 @@
 ## Contributing
 
 Made By Jovan
-## Installation
-N/A
-## Usage
-N/A
-
-## Tests
-N/A
 ## Questions
 Here's a link to my Github Profile.
 https://github.com/jovan-png
@@ -34,8 +24,10 @@ https://github.com/jovan-png
 If you have any additional questions please reach me at
 norringtonjovan@gmail.com
 
-
+## Screenshot
+![screencapture-warm-ocean-24728-herokuapp-2022-02-06-23_47_34](https://user-images.githubusercontent.com/88255194/152731536-ec259bbb-c8f6-419e-bab7-a1514367bf46.png)
 ## License
+
 
 
         MIT License
